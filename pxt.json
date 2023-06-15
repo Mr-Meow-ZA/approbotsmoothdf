@@ -5,7 +5,8 @@
         "core": "*",
         "microphone": "*",
         "pxt-microbitApp": "github:Mr-Meow-ZA/microbitapp#v1.1.0",
-        "robotbit": "github:kittenbot/pxt-robotbit#v0.4.5"
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.4.5",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
